@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sudhanshu-app/static/css/main.073c9b0a.css",
+    "main.js": "/sudhanshu-app/static/js/main.0318c012.js",
+    "static/js/787.4909302c.chunk.js": "/sudhanshu-app/static/js/787.4909302c.chunk.js",
+    "index.html": "/sudhanshu-app/index.html",
+    "main.073c9b0a.css.map": "/sudhanshu-app/static/css/main.073c9b0a.css.map",
+    "main.0318c012.js.map": "/sudhanshu-app/static/js/main.0318c012.js.map",
+    "787.4909302c.chunk.js.map": "/sudhanshu-app/static/js/787.4909302c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0318c012.js"
+  ]
+}
